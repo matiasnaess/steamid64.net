@@ -2,7 +2,7 @@
 require_once 'steamid.php';
 
 // Optional: set Steam API Key
-SteamID::SetSteamAPIKey(EA4FA02807E84092057D48943A0EFE61);
+SteamID::SetSteamAPIKey();
 
 
 
