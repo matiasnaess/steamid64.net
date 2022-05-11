@@ -1,3 +1,0 @@
-<?php
-$steamapikey = "4BB9CE6C01BF0610900E7375D1D31F93";
-?>
