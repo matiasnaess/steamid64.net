@@ -11,7 +11,7 @@ require_once 'lib/steamid.php';
 require_once 'lib/steamapikey.php';
 
 // Optional: set Steam API Key
-SteamID::SetSteamAPIKey(EA4FA02807E84092057D48943A0EFE61);
+SteamID::SetSteamAPIKey();
 
 // detect a vanity URL and parse it (note parameter 3 must be set)
 $format = SteamID::Parse( $steamid, SteamID::FORMAT_AUTO, true );
